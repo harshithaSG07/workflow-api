@@ -40,11 +40,10 @@ Install the following:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/harshithaSG07/workflow-api.git>
 cd workflow-api
 ```
 
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with your repository URL.
 
 ### 2. Install dependencies
 
